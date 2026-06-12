@@ -1,0 +1,15 @@
+column_name,data_type,non_null_rows,null_rows
+_bronze_ingested_at,string,12,0
+_ingestion_batch_id,string,12,0
+_source_file,string,12,0
+amount,double,12,0
+channel,string,12,0
+coupon_code,string,2,10
+currency,string,12,0
+customer_id,bigint,12,0
+delivery_promise,string,2,10
+event_id,string,12,0
+event_time,string,12,0
+order_id,bigint,12,0
+product_id,string,11,1
+status,string,12,0

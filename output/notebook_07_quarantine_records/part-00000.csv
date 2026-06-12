@@ -1,0 +1,3 @@
+event_id,order_id,status,amount,currency,quality_errors
+evt-1006,1005,NEW,-10.0,USD,non_positive_amount
+evt-1010,1008,NEW,25.0,USD,missing_product_id

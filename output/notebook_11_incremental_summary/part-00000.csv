@@ -1,0 +1,7 @@
+metric,value
+bronze_rows,12
+silver_valid_rows,10
+silver_deduplicated_rows,9
+current_order_rows,7
+processed_files,2
+files_processed_this_run,2

@@ -1,0 +1,8 @@
+order_id,customer_name,region,product_name,product_category,status,amount_usd,customer_match_status
+1001,Ada Retail,NA,Cloud Laptop,ELECTRONICS,SHIPPED,1299.99,MATCHED
+1002,Ravi Stores,APAC,Edge Phone,ELECTRONICS,CANCELLED,799.0,MATCHED
+1003,Sofia Market,EMEA,Noise Cancel Headphones,ACCESSORIES,NEW,149.5,MATCHED
+1004,Mina Travel,EMEA,Action Camera,ELECTRONICS,CANCELLED,450.0,MATCHED
+1006,Mina Travel,EMEA,Travel Bag,TRAVEL,NEW,97.19,MATCHED
+1007,,UNKNOWN,Action Camera,ELECTRONICS,NEW,450.0,MISSING_CUSTOMER
+1009,Omar Services,MEA,Installation Service,SERVICES,PAID,40.0,MATCHED

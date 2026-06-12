@@ -1,0 +1,14 @@
+{
+  "bronze_rows": 12,
+  "current_order_rows": 7,
+  "enriched_rows": 7,
+  "expected_learning_path": "Spark basics -> Bronze raw -> Silver quality/dedup/current/enriched -> Gold KPIs",
+  "gold_tables": [
+    "category_revenue",
+    "daily_revenue",
+    "segment_revenue"
+  ],
+  "quarantine_rows": 2,
+  "silver_deduplicated_rows": 9,
+  "silver_valid_rows": 10
+}

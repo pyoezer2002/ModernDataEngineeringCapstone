@@ -1,0 +1,6 @@
+{"amount": 1299.99, "channel": "web", "currency": "USD", "customer_id": 501, "event_id": "evt-1001", "event_time": "2026-05-29T02:00:01Z", "order_id": 1001, "product_id": "P-LAP-01", "status": "NEW"}
+{"amount": 799.0, "channel": "mobile", "currency": "USD", "customer_id": 502, "event_id": "evt-1002", "event_time": "2026-05-29T02:00:05Z", "order_id": 1002, "product_id": "P-PHN-02", "status": "NEW"}
+{"amount": 149.5, "channel": "store", "currency": "USD", "customer_id": 503, "event_id": "evt-1003", "event_time": "2026-05-29T02:00:08Z", "order_id": 1003, "product_id": "P-HDP-03", "status": "NEW"}
+{"amount": 799.0, "channel": "mobile", "currency": "USD", "customer_id": 502, "event_id": "evt-1004", "event_time": "2026-05-29T02:00:05Z", "order_id": 1002, "product_id": "P-PHN-02", "status": "NEW"}
+{"amount": 450.0, "channel": "web", "currency": "USD", "customer_id": 504, "event_id": "evt-1005", "event_time": "2026-05-29T02:00:20Z", "order_id": 1004, "product_id": "P-CAM-04", "status": "CANCELLED"}
+{"amount": -10.0, "channel": "web", "currency": "USD", "customer_id": 505, "event_id": "evt-1006", "event_time": "2026-05-29T02:00:30Z", "order_id": 1005, "product_id": "P-BAG-05", "status": "NEW"}

@@ -1,0 +1,5 @@
+product_category,order_count,total_revenue_usd,gross_margin_usd
+ELECTRONICS,2,1749.99,739.99
+ACCESSORIES,1,149.5,94.5
+TRAVEL,1,97.19,62.19
+SERVICES,1,40.0,15.0

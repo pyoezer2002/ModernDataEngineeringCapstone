@@ -1,0 +1,18 @@
+{
+  "batches": [
+    {
+      "batch_id": "notebook-incremental-batch-01",
+      "rows": 6,
+      "source_file": "order_events_batch_1.jsonl"
+    },
+    {
+      "batch_id": "notebook-incremental-batch-02",
+      "rows": 6,
+      "source_file": "order_events_batch_2.jsonl"
+    }
+  ],
+  "processed_files": [
+    "order_events_batch_1.jsonl",
+    "order_events_batch_2.jsonl"
+  ]
+}

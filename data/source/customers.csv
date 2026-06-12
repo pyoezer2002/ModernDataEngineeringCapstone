@@ -1,0 +1,7 @@
+customer_id,customer_name,email,country,region,signup_date,loyalty_tier
+501,Ada Retail,ada@example.com,US,NA,2026-01-15,Gold
+502,Ravi Stores,RAVI@EXAMPLE.COM,IN,APAC,2026-02-20,Silver
+503,Sofia Market,sofia@example.com,ES,EMEA,2026-03-05,Bronze
+504,Mina Travel,mina@example.com,DE,EMEA,2026-01-29,Gold
+505,Omar Services,omar@example.com,AE,MEA,2026-04-14,Silver
+506,Nia Wholesale,nia@example.com,US,NA,2026-05-01,Bronze

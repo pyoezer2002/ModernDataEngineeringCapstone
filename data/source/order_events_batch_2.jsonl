@@ -1,0 +1,6 @@
+{"amount": 1299.99, "channel": "web", "coupon_code": "SPRING10", "currency": "USD", "customer_id": 501, "delivery_promise": "2-day", "event_id": "evt-1007", "event_time": "2026-05-30T09:00:01Z", "order_id": 1001, "product_id": "P-LAP-01", "status": "SHIPPED"}
+{"amount": 89.99, "channel": "web", "currency": "EUR", "customer_id": 504, "delivery_promise": "standard", "event_id": "evt-1008", "event_time": "2026-05-30T09:05:00Z", "order_id": 1006, "product_id": "P-BAG-05", "status": "NEW"}
+{"amount": 450.0, "channel": "partner", "currency": "USD", "customer_id": 999, "event_id": "evt-1009", "event_time": "2026-05-30T09:07:00Z", "order_id": 1007, "product_id": "P-CAM-04", "status": "NEW"}
+{"amount": 25.0, "channel": "store", "currency": "USD", "customer_id": 506, "event_id": "evt-1010", "event_time": "2026-05-30T09:10:00Z", "order_id": 1008, "product_id": null, "status": "NEW"}
+{"amount": 799.0, "channel": "mobile", "coupon_code": "SAVE20", "currency": "USD", "customer_id": 502, "event_id": "evt-1011", "event_time": "2026-05-30T09:12:00Z", "order_id": 1002, "product_id": "P-PHN-02", "status": "CANCELLED"}
+{"amount": 40.0, "channel": "web", "currency": "USD", "customer_id": 505, "event_id": "evt-1012", "event_time": "2026-05-30T09:15:00Z", "order_id": 1009, "product_id": "P-SVC-99", "status": "PAID"}

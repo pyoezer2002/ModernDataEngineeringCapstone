@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_cost
+P-LAP-01,Cloud Laptop,electronics,820.0
+P-PHN-02,Edge Phone,electronics,410.0
+P-HDP-03,Noise Cancel Headphones,accessories,55.0
+P-CAM-04,Action Camera,electronics,190.0
+P-BAG-05,Travel Bag,travel,35.0
+P-SVC-99,Installation Service,services,25.0

@@ -1,0 +1,1 @@
+Spark Parquet write fell back to JSON because local Windows Hadoop winutils.exe is missing.

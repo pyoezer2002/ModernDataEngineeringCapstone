@@ -1,0 +1,6 @@
+region,loyalty_tier,order_count,total_revenue_usd
+EMEA,Bronze,1,149.5
+EMEA,Gold,1,97.19
+MEA,Silver,1,40.0
+NA,Gold,1,1299.99
+UNKNOWN,UNKNOWN,1,450.0
